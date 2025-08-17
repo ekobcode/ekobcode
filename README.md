@@ -60,29 +60,4 @@ Frameworks: `Django` · `Flask` · `Laravel` · `Express` · `Spring Boot` · `C
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=budi&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=budi&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
-
----
-
-## 🌍 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/budi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?&style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ⭐️ *"Keep learning, keep building, keep sharing."*
